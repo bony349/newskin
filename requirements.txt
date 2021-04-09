@@ -18,7 +18,7 @@ pyparsing
 python-dateutil
 PyWavelets
 scikit-image
-scikit-learn
+scikit-learn==0.22.1
 scipy
 six
 Werkzeug
