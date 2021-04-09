@@ -11,7 +11,7 @@ kiwisolver
 MarkupSafe
 matplotlib
 networkx
-numpy
+numpy==1.18.3
 opencv-python
 Pillow
 pyparsing
