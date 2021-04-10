@@ -1,8 +1,8 @@
 click==7.1.1
 cycler==0.10.0
 decorator==4.4.2
-Flask==1.1.2
-gunicorn==20.0.4
+Flask
+gunicorn
 imageio==2.8.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
@@ -11,7 +11,7 @@ kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 networkx==2.4
-numpy==1.18.3
+numpy
 opencv-python==4.2.0.34
 Pillow==7.1.1
 pyparsing==2.4.7
